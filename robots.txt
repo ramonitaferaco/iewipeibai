@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://viegheizee.samuelhuba.com/sitemap.xml
